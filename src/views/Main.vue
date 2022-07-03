@@ -71,7 +71,7 @@
     data() {
       return {
         show: '',
-        start: 'total USD',
+        start: 'list',
         totalSum:'',
         totalCurrency: {},
         list: [
